@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="LA6_Carreon">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/LA6_Carreon/LeapYearChecker.zip!/" />
+      <root url="jar://$PROJECT_DIR$/LA6_Carreon/SimpleCalculator.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
